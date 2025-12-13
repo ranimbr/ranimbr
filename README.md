@@ -1,5 +1,5 @@
-<!-- Header Banner Animated with Gradient & Glow -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ranim%20Ben%20Rejeb&fontSize=50&fontColor=ffffff&animation=glitch&desc=Industrial%20Computer%20Engineering%20Student&descAlign=center&descColor=ffffff&descSize=20)
+<!-- Header Banner Animated with Gradient Glow -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Ranim%20Ben%20Rejeb&fontSize=55&fontColor=ffffff&animation=glitch&desc=Industrial%20Computer%20Engineering%20Student&descAlign=center&descColor=ffffff&descSize=22)
 
 # 👋 Hello, I’m **Ranim Ben Rejeb**
 
@@ -10,16 +10,16 @@ Industrial Computer Engineering student passionate about **AI, Computer Vision, 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-FF6600?style=for-the-badge&logo=YOLO&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Python&animation=spin"/>
+  <img src="https://img.shields.io/badge/YOLOv8-FF6600?style=for-the-badge&logo=YOLO&logoColor=white&label=YOLOv8"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&label=OpenCV&animation=spin"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&label=Django"/>
+  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white&label=Laravel"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&label=React&animation=spin"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&label=Node.js"/>
+  <img src="https://img.shields.io/badge/Kotlin-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white&label=Kotlin"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&label=MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&label=Docker&animation=spin"/>
 </p>
 
 ---
@@ -76,10 +76,11 @@ Industrial Computer Engineering student passionate about **AI, Computer Vision, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranimbr&show_icons=true&theme=radical&count_private=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranimbr&show_icons=true&theme=radical&count_private=true&hide_rank=false&hide=stars" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimbr&layout=compact&theme=radical" height="160">
 </p>
 
+---
 
 ## 🔗 Connect with Me
 
@@ -92,4 +93,4 @@ Industrial Computer Engineering student passionate about **AI, Computer Vision, 
 ---
 
 <!-- Footer Banner Animated -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&animation=twinkling)
