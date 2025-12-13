@@ -1,5 +1,5 @@
-<!-- Header Banner Dark Animated -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ranim%20Ben%20Rejeb&fontSize=45&fontColor=ffffff&animation=twinkling)
+<!-- Header Banner Animated with Gradient & Glow -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ranim%20Ben%20Rejeb&fontSize=50&fontColor=ffffff&animation=glitch&desc=Industrial%20Computer%20Engineering%20Student&descAlign=center&descColor=ffffff&descSize=20)
 
 # 👋 Hello, I’m **Ranim Ben Rejeb**
 
@@ -26,14 +26,43 @@ Industrial Computer Engineering student passionate about **AI, Computer Vision, 
 
 ## 🧩 Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|-----------|
-| 🤖 **AIoT AutoCar PrimeX** | LiDAR + YOLOv4 autonomous robot | Python, YOLOv4, Webots |
-| 👷 **SafeVision** | PPE detection system (helmet, vest, goggles) | Python, YOLOv8, Django, MongoDB |
-| 📱 **Smart Weather Station App** | IoT sensors + Android app | Android Studio, Kotlin, ESP32, Firebase |
-| 🏡 **Guest Houses App** | Android + Room + Google Maps integration | Kotlin, Room DB, Google Maps API |
-| 🌐 **TaskFlow** | Project & Task Management platform | Laravel, Bootstrap |
-| 🎉 **Eventy** | Full Event Management system | Laravel, MySQL, Blade |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td>🤖 <b>AIoT AutoCar PrimeX</b></td>
+    <td>LiDAR + YOLOv4 autonomous robot</td>
+    <td>Python, YOLOv4, Webots</td>
+  </tr>
+  <tr>
+    <td>👷 <b>SafeVision</b></td>
+    <td>PPE detection system (helmet, vest, goggles)</td>
+    <td>Python, YOLOv8, Django, MongoDB</td>
+  </tr>
+  <tr>
+    <td>📱 <b>Smart Weather Station App</b></td>
+    <td>IoT sensors + Android app</td>
+    <td>Android Studio, Kotlin, ESP32, Firebase</td>
+  </tr>
+  <tr>
+    <td>🏡 <b>Guest Houses App</b></td>
+    <td>Android + Room + Google Maps integration</td>
+    <td>Kotlin, Room DB, Google Maps API</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>TaskFlow</b></td>
+    <td>Project & Task Management platform</td>
+    <td>Laravel, Bootstrap</td>
+  </tr>
+  <tr>
+    <td>🎉 <b>Eventy</b></td>
+    <td>Full Event Management system</td>
+    <td>Laravel, MySQL, Blade</td>
+  </tr>
+</table>
 
 ---
 
@@ -47,8 +76,8 @@ Industrial Computer Engineering student passionate about **AI, Computer Vision, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160">
 </p>
 
 ---
@@ -63,5 +92,5 @@ Industrial Computer Engineering student passionate about **AI, Computer Vision, 
 
 ---
 
-<!-- Footer Banner Dark Animated -->
+<!-- Footer Banner Animated -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling)
