@@ -76,11 +76,10 @@ Industrial Computer Engineering student passionate about **AI, Computer Vision, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranimbr&show_icons=true&theme=radical&count_private=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimbr&layout=compact&theme=radical" height="160">
 </p>
 
----
 
 ## 🔗 Connect with Me
 
