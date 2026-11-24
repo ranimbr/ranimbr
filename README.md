@@ -1,96 +1,103 @@
-<!-- Header Banner Animated with Gradient Glow -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Ranim%20Ben%20Rejeb&fontSize=55&fontColor=ffffff&animation=glitch&desc=Industrial%20Computer%20Engineering%20Student&descAlign=center&descColor=ffffff&descSize=22)
+<div align="center">
 
-# 👋 Hello, I’m **Ranim Ben Rejeb**
+# Hi there, I'm Ranim Ben Rejeb 👋 
 
-Industrial Computer Engineering student passionate about **AI, Computer Vision, Web & Mobile Development**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0B3D91&center=true&vcenter=true&width=600&lines=Junior+Data+Engineer;ETL+Pipelines+%7C+PostgreSQL+%7C+FastAPI;Data+Modeling+(SCD+Type+2)+%26+Analytics;Applied+AI+%26+Computer+Vision)](https://git.io/typing-svg)
 
----
+**Junior Data Engineer** passionate about building robust data pipelines, scalable backend architectures, and turning raw data into strategic insights.
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Python&animation=spin"/>
-  <img src="https://img.shields.io/badge/YOLOv8-FF6600?style=for-the-badge&logo=YOLO&logoColor=white&label=YOLOv8"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&label=OpenCV&animation=spin"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&label=Django"/>
-  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white&label=Laravel"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&label=React&animation=spin"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&label=Node.js"/>
-  <img src="https://img.shields.io/badge/Kotlin-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white&label=Kotlin"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&label=MongoDB"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&label=Docker&animation=spin"/>
-</p>
+Tunis, Tunisia 📍 • [LinkedIn](https://www.linkedin.com/in/ranim-ben-rejeb-577617235/) • [Email](mailto:ranimbr04@gmail.com)
 
 ---
 
-## 🧩 Projects
+<!-- BADGES SOCIAUX -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranim-ben-rejeb-577617235/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranimbr)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranimbr04@gmail.com)
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td>🤖 <b>AIoT AutoCar PrimeX</b></td>
-    <td>LiDAR + YOLOv4 autonomous robot</td>
-    <td>Python, YOLOv4, Webots</td>
-  </tr>
-  <tr>
-    <td>👷 <b>SafeVision</b></td>
-    <td>PPE detection system (helmet, vest, goggles)</td>
-    <td>Python, YOLOv8, Django, MongoDB</td>
-  </tr>
-  <tr>
-    <td>📱 <b>Smart Weather Station App</b></td>
-    <td>IoT sensors + Android app</td>
-    <td>Android Studio, Kotlin, ESP32, Firebase</td>
-  </tr>
-  <tr>
-    <td>🏡 <b>Guest Houses App</b></td>
-    <td>Android + Room + Google Maps integration</td>
-    <td>Kotlin, Room DB, Google Maps API</td>
-  </tr>
-  <tr>
-    <td>🌐 <b>TaskFlow</b></td>
-    <td>Project & Task Management platform</td>
-    <td>Laravel, Bootstrap</td>
-  </tr>
-  <tr>
-    <td>🎉 <b>Eventy</b></td>
-    <td>Full Event Management system</td>
-    <td>Laravel, MySQL, Blade</td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## 💼 Experience
+### 🚀 About Me
 
-- 🧠 **AI & Computer Vision Intern (2025)** — Human detection, heatmaps, analytics, MLOps  
-- 🌐 **Full-Stack Web Intern (2024)** — TaskFlow platform development (Laravel, Bootstrap)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranimbr&show_icons=true&theme=radical&count_private=true&hide_rank=false&hide=stars" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimbr&layout=compact&theme=radical" height="160">
-</p>
+- 🎓 **Graduating Industrial Computing & Software Engineer** from [ENET'Com](https://enetcom.rnu.tn) (2023–2026) with engineering prep cycle at IPEIT.
+- 💼 **Data Engineering & Full-Stack Intern @ Telnet Holding**:
+  - Automated developer data ingestion via GitLab REST API (APScheduler, ETL Python).
+  - Designed historical tracking using **SCD Type 2** & multi-level KPI aggregation.
+  - Built full-stack reporting platform with **FastAPI (Clean Architecture)**, **PostgreSQL (Alembic)**, and **React**.
+- 🧠 **Applied AI & MLOps experience** @ VisShop AI (YOLOv8, OpenCV heatmaps, MLflow, Docker Compose, GitHub Actions).
+- 🛠️ Interested in **Data Engineering, Data Modeling, Cloud Data Warehousing, and MLOps**.
+- ⚡ Available immediately for new opportunities!
 
 ---
 
-## 🔗 Connect with Me
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <a href="mailto:ranimbr04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ranim-ben-rejeb-577617235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ranimbr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+#### 📊 Data Engineering & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-0B3D91?style=for-the-badge&logoColor=white)
+![SCD Type 2](https://img.shields.io/badge/SCD_Type_2-4B8BBE?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### ⚙️ Backend & Architecture
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-A12B2B?style=for-the-badge&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+#### 🤖 Machine Learning, Computer Vision & MLOps
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### 💻 Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
-<!-- Footer Banner Animated -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&animation=twinkling)
+### 🌟 Featured Projects
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| **GitLab KPI & Performance Analytics** *(PFE Telnet)* | `Python`, `FastAPI`, `PostgreSQL`, `APScheduler`, `React`, `Chart.js` | Automated ETL ingesting GitLab commits/MRs, historical assignment tracking with **SCD Type 2**, and 4-tier KPI dashboards. |
+| **SafeVision - PPE Detection** | `YOLOv8`, `OpenCV`, `Django`, `MongoDB` | Real-time computer vision system detecting safety gear (helmets, vests, goggles) in industrial environments with **87% mAP@50**. |
+| **VisShop AI - Human Heatmaps** | `Python`, `YOLOv8`, `MLflow`, `Docker`, `GitHub Actions` | Customer density & interaction heatmaps for retail analysis with automated MLOps pipelines. |
+| **AIoT AutoCar PrimeX** | `Python`, `LiDAR`, `YOLOv4`, `Jetson Xavier NX`, `Webots` | Autonomous ground robot for obstacle avoidance and environmental gas (CO2) detection in simulated environments. |
+| **Smart IoT Weather Station** | `Android (Kotlin)`, `ESP32`, `Firebase`, `Sensors` | Real-time IoT monitoring application tracking temperature, atmospheric pressure, and light intensity. |
+| **Maisons d'Hôtes Tunisie** | `Android (Kotlin)`, `Room Database`, `Google Maps API` | Discovery & booking mobile platform for Tunisian guest houses with geolocation and advanced search filters. |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranimbr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ranim's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimbr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranimbr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+<div align="center">
+  <b>Let's build something impactful together!</b><br>
+  Feel free to reach out on <a href="https://www.linkedin.com/in/ranim-ben-rejeb-577617235/">LinkedIn</a> or by <a href="mailto:ranimbr04@gmail.com">Email</a>.
+</div>
