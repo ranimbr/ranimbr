@@ -97,9 +97,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranimbr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
----
-
-<div align="center">
-  <b>💬 Looking to discuss a project or opportunity?</b><br>
-  Feel free to reach out via <a href="https://www.linkedin.com/in/ranim-ben-rejeb-577617235/"><b>LinkedIn</b></a> or drop an email at <a href="mailto:ranimbr04@gmail.com"><b>ranimbr04@gmail.com</b></a>.
-</div>
