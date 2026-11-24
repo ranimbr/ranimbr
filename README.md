@@ -7,12 +7,6 @@
 <p align="center">
   <b>Junior Data & Full-Stack Engineer</b> specializing in building end-to-end data-driven web platforms, automated ETL pipelines, scalable REST APIs, and modern interactive dashboards.
 </p>
-
-📍 **Tunis, Tunisia** &nbsp;•&nbsp; 
-📧 [ranimbr04@gmail.com](mailto:ranimbr04@gmail.com) &nbsp;•&nbsp; 
-🔗 [linkedin.com/in/ranim-ben-rejeb](https://www.linkedin.com/in/ranim-ben-rejeb-577617235/) &nbsp;•&nbsp; 
-💼 **Open for immediate opportunities**
-
 <br/>
 
 </div>
